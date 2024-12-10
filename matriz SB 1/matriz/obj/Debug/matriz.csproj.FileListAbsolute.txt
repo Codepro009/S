@@ -1,0 +1,72 @@
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe.config
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Form1.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\10 SEMESTRE 2 2023\5 OYENTE\PRO1\PRO1 MOD\2DO PARCIAL\EXAMEN SB\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\PREGUNTA 1\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\obj\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\obj\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\bin\Debug\matriz.exe.config
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\bin\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\matriz SG 1RO\matriz\bin\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\obj\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\obj\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\bin\Debug\matriz.exe.config
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\bin\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SG\REPECHAJE SG\matriz SG 1y2\matriz\bin\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\bin\Debug\matriz.exe.config
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\bin\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\bin\Debug\matriz.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\obj\Debug\matriz.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\REPECHAJE SB\matriz SB 1y2\matriz\obj\Debug\matriz.pdb
